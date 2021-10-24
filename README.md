@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrkWithT, a CS student at UC Davis!
-- 👀 I’m interested in ... Learning and practicing programming in Java and Javascript.
-- 🌱 I’m currently learning ... C++
+- 👀 I’m interested in ... mostly Java and C programming.
+- 🌱 I’m currently learning ... C++ for university.
 - 💞️ I’m looking to collaborate on ... Some project assignments.
 - 📫 How to reach me ... (I'll post my discord here later).
 
