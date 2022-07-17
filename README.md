@@ -6,7 +6,12 @@
 - 💞️ I’m looking to collaborate on ... toy projects within `replit.com`, an online programming environment site!
 - 📫 How to reach me:
   - My Discord: `DerkT #0237`
-  - [My Replit](https://replit.com/@thelonecodist)
+  - [My Dormant Replit](https://replit.com/@thelonecodist)
+
+### Other planned projects:
+ 1. A redo of my puzzle block game in OpenGL.
+ 2. A static website for my project links and about me.
+ 3. Maybe a 2D Minecraft like game.
 
 <!---
 DrkWithT/DrkWithT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
