@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrkWithT, a CS student transferring to a Cal State! I'm an LA area resident with some dreams.
+- 👋 Hi, I’m @DrkWithT, a CS student transferring to a Cal State! I have programmed for 5 years.
 - 👀 I’m interested in ... mostly backend web dev with a bit of lower-level C/C++.
 - 🌱 I’m currently learning ...
   - HTML, CSS, and more JS. Server-side web frameworks such as Python Flask are my favorites!
