@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning ...
   - HTML, CSS, and more JS. Server-side web frameworks such as Python Flask are my favorites!
   - Graphics Programming with OpenGL 3.3 or LWJGL!
-- 💞️ I’m looking to collaborate on ... toy projects within `replit.com`, an online programming environment site!
+- 💞️ I’m looking to collaborate on whatever strikes my interest: C programming, graphics, and maybe programming language implementation.
 - 📫 How to reach me:
   - My Discord: `DerkT #0237`
-  - [My Replit](https://replit.com/@thelonecodist)
 
 ### Planned projects:
  1. A redo of my puzzle block game as a desktop app. I will use the _NeutralinoJS_ app framework for this.
