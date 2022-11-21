@@ -12,11 +12,10 @@
 - 📫 How to reach me:
   - My Discord: `DerkT #0237`
 
-### Projects In Progress
+### TO DO
  1. Expand on my Java unit converter.
- 2. Create a toy, static file HTTP server in Java from scratch because why not.
- 3. A static website for my project links and about me.
- 4. A Java LWJGL 2D game.
+ 2. Improve a static website for my project links and about me.
+ 3. A Java LWJGL 2D game.
 
 <!---
 DrkWithT/DrkWithT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
