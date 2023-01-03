@@ -8,14 +8,14 @@
   - Server-side web frameworks such as Python Flask.
   - Some Java for network programming.
   - ~~Graphics Programming with OpenGL 3.3 or LWJGL!~~ (On Hold.)
-- 💞️ I’m looking to collaborate on whatever strikes my interest: C projects, Java projects, and maybe programming language implementation.
+- 💞️ I’m looking to collaborate on whatever strikes my interest: C projects and Java web projects.
 - 📫 How to reach me:
   - My Discord: `DerkT #0237`
 
 ### TO DO
- 1. Expand on my Java unit converter.
+ 1. Improve my toy Java _HTTP 1.1_ server.
  2. Improve a static website for my project links and about me.
- 3. A Java LWJGL 2D game.
+ 3. Make a Java LWJGL 2D game.
 
 <!---
 DrkWithT/DrkWithT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
