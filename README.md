@@ -1,8 +1,8 @@
 # My Profile
-## Updated: Feb 15, 2023.
+## Updated: Feb 17, 2023.
 
 ### About Me
-- 👋 Hi, I’m @DrkWithT, a CS student transferring to a Cal State! I have programmed for 5 years.
+- 👋 Hi, I’m @DrkWithT, a CS student at CSULA! I have programmed for 5 years.
 - 👀 I’m interested in ... backend web dev and some graphical programming.
 - 🌱 I’m currently learning and practicing...
   - PHP or NodeJS Express.
