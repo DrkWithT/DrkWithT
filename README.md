@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @DrkWithT, a CS student at CSULA! I have programmed for 5+ years since high school.
 - 👀 I’m interested in ... backend web dev, networking, and programming language design.
 - 🌱 I’m currently learning and practicing...
-  - Express JS
+  - Python Flask
   - Writing HTTP servers
   - Programing language design
 - 💞️ I’m looking to collaborate on whatever strikes my interest.
