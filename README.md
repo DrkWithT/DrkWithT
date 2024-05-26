@@ -1,9 +1,9 @@
 # My Profile
-## Updated: May 4, 2023.
+## Updated: May 25, 2023.
 
 ### About Me
-- 👋 Hi, I’m @DrkWithT, a CS student at CSULA! I have programmed for 6+ years since high school.
-- 👀 I’m interested in ... backend web dev and programming language design.
+- 👋 Hi, I’m @DrkWithT, a CS student at CSULA! I have programmed for around 7 years so far.
+- 👀 I’m interested in ... backend web dev and programming language implementation.
 - 🌱 I’m currently learning and practicing...
   - C++ with focus on language implementation and networking too! 🗒️ 🌐
   - Backend NodeJS for web development.
