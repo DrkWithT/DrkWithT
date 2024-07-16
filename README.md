@@ -1,5 +1,5 @@
 # My Profile
-## Updated: May 25, 2023.
+## Updated: Jul 15, 2024.
 
 ### About Me
 - 👋 Hi, I’m @DrkWithT, a CS student at CSULA! I have programmed for around 7 years so far.
@@ -22,6 +22,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+### My Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrkWithT&show_icons=true&layout=compact&theme=onedark)
 
 ### Links
  - [My Gists](https://gist.github.com/DrkWithT)
