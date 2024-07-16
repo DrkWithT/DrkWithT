@@ -24,7 +24,7 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrkWithT&show_icons=true&layout=compact&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrkWithT&show_icons=true&layout=normal&langs_count=4&theme=onedark)
 
 ### Links
  - [My Gists](https://gist.github.com/DrkWithT)
