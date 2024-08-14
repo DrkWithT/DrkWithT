@@ -1,15 +1,21 @@
 # My Profile
-## Updated: Jul 15, 2024.
+## Updated: Aug 14, 2024.
 
 ### About Me
-- 👋 Hi, I’m @DrkWithT, a CS student at CSULA! I have programmed for around 7 years so far.
-- 👀 I’m interested in ... backend web dev and programming language implementation.
+- 👋 Hi, I’m @DrkWithT, a 4th-year CS student at CSULA! I have programmed for at least 7 years so far.
+- 👀 I’m interested in...
+  - Career: Graphical programming with focus on visualization **or** network application programming.
+  - Fun: language implementation! 🐉
 - 🌱 I’m currently learning and practicing...
-  - C++ with focus on language implementation and networking too! 🗒️ 🌐
-  - Backend NodeJS for web development.
+  - C++ with focus on language implementation, graphics, and networking too!
+  - Backend NodeJS or Python for web development in case.
 - 💞️ I’m looking to collaborate on whatever strikes my interest.
 - 📫 How to reach me:
   - My Discord: `.derktauto`
+
+### Links
+ - [My Gists](https://gist.github.com/DrkWithT)
+ - [LinkedIn Coming Soon)](#)
 
 ### Focused Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,8 +34,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrkWithT&layout=compact&langs_count=5&theme=onedark)
 
-### Links
- - [My Gists](https://gist.github.com/DrkWithT)
 <!---
 DrkWithT/DrkWithT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
