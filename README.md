@@ -1,21 +1,21 @@
 # My Profile
-## Updated: Aug 14, 2024.
+## Updated: Sep 2, 2024
 
 ### About Me
 - 👋 Hi, I’m @DrkWithT, a 4th-year CS student at CSULA! I have programmed for at least 7 years so far.
 - 👀 I’m interested in...
-  - Career: Graphical programming with focus on visualization **or** network application programming.
+  - Career: Graphical programming (visualization) **or** network application programming.
   - Fun: language implementation! 🐉
 - 🌱 I’m currently learning and practicing...
   - C++ with focus on language implementation, graphics, and networking too!
-  - Backend NodeJS or Python for web development in case.
+  - Some JS and Python in case.
 - 💞️ I’m looking to collaborate on whatever strikes my interest.
 - 📫 How to reach me:
   - My Discord: `.derktauto`
 
 ### Links
  - [My Gists](https://gist.github.com/DrkWithT)
- - [LinkedIn Coming Soon)](#)
+ - [LinkedIn Coming Soon)](https://www.linkedin.com/in/derek-tan-b50448245/)
 
 ### Focused Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
