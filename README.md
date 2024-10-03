@@ -11,11 +11,11 @@
   - Some JS and Python in case.
 - 💞️ I’m looking to collaborate on whatever strikes my interest.
 - 📫 How to reach me:
-  - My Discord: `.derktauto`
+  - My Discord: `DerkT#0237`
 
 ### Links
  - [My Gists](https://gist.github.com/DrkWithT)
- - [LinkedIn Coming Soon)](https://www.linkedin.com/in/derek-tan-b50448245/)
+ - [LinkedIn](https://www.linkedin.com/in/derek-tan-b50448245/)
 
 ### Focused Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,8 +30,6 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ### My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrkWithT&show_icons=true&layout=compact&theme=onedark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrkWithT&layout=compact&langs_count=5&theme=onedark)
 
 <!---
