@@ -1,13 +1,13 @@
 # My Profile
-## Updated: Sep 2, 2024
+## Updated: Nov 1, 2024
 
 ### About Me
 - 👋 Hi, I’m @DrkWithT, a senior-year CS major at CSULA! I have programmed for at least 7 years so far.
 - 👀 I’m interested in...
-  - Career: Graphical programming (visualization) **or** network application programming.
+  - Career: Network application programming or "under the hood" lower-level software with C++.
   - Fun: language implementation! 🐉
 - 🌱 I’m currently learning and practicing...
-  - C++ with focus on language implementation, graphics, and networking too!
+  - C++ with focus on language implementation and networking too!
   - Some Python and JS in case.
 - 💞️ I’m looking to collaborate on whatever strikes my interest.
 - 📫 How to reach me:
