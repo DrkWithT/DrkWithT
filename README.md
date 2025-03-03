@@ -2,13 +2,14 @@
 ## Updated: Nov 1, 2024
 
 ### About Me
-- 👋 Hi, I’m @DrkWithT, a senior-year CS major at CSULA! I have programmed for at least 7 years so far.
+- 👋 Hi, I’m @DrkWithT, a senior-year CS major at CSULA! I've been into programming since 2017.
 - 👀 I’m interested in...
-  - Career: Network application programming or "under the hood" lower-level software with C++.
+  - Career: "under the hood" lower-level software with C++ & possibly graphics programming for visualization.
   - Fun: language implementation! 🐉
 - 🌱 I’m currently learning and practicing...
-  - C++ with focus on language implementation and networking too!
-  - Some Python and JS in case.
+  - Modern C++!
+  - Some Python 3 in case.
+  - JS for other things.
 - 💞️ I’m looking to collaborate on whatever strikes my interest.
 - 📫 How to reach me:
   - My Discord: `DerkT#0237`
