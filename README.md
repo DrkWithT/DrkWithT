@@ -1,26 +1,25 @@
 # My Profile
-## Updated: Nov 1, 2024
+## Updated: Apr 22, 2025
 
 ### About Me
 - 👋 Hi, I’m @DrkWithT, a senior-year CS major at CSULA! I've been into programming since 2017.
 - 👀 I’m interested in...
-  - Career: "under the hood" lower-level software with C++ & possibly graphics programming for visualization.
+  - Career: "under the hood" lower-level software with C++
   - Fun: language implementation! 🐉
 - 🌱 I’m currently learning and practicing...
-  - Modern C++!
-  - Some Python 3 in case.
-  - JS for other things.
-- 💞️ I’m looking to collaborate on whatever strikes my interest.
+  - Modern C++ such as C++20.
+  - Some Python 3 in case!
+- 💞️ I’m looking to collaborate on whatever strikes my interest such as networking software or other utilities in C++.
 - 📫 How to reach me:
-  - My Discord: `DerkT#0237`
+  - See my _Links_ below!
 
 ### Links
- - [My Gists](https://gist.github.com/DrkWithT)
  - [LinkedIn](https://www.linkedin.com/in/derek-tan-b50448245/)
+ - [My Gists](https://gist.github.com/DrkWithT)
 
 ### Focused Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Tools
