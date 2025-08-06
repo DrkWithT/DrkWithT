@@ -1,15 +1,15 @@
 # My Profile
-## Updated: June 18, 2025
+## Updated: Aug 6, 2025
 
 ### About Me
 - 👋 Hi, I’m @DrkWithT, a senior-year CS major at CSULA! I've been programming since 2017.
 - 👀 I’m interested in...
-  - Career: Graphics programming with emphasis on visualization tools _or_ game-dev.
+  - Career: Backend networking applications or graphics programming (visuals, game-dev?)
   - Alternative: language implementation! 🐉
 - 🌱 I’m currently learning and practicing...
   - Modern C++ (C++20 and beyond)
-  - Python 3
-  - C# on .NET
+  - Rust
+  - C# for .NET & Entity Framework
 - 💞️ I’m looking to collaborate on whatever strikes my interest.
 - 📫 How to reach me:
   - See my _Links_ below!
@@ -20,7 +20,7 @@
 
 ### Focused Languages (1)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Tools
