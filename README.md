@@ -14,8 +14,7 @@
 - 📫 How to reach me:
   - See my _Links_ below!
 
-### Links
- - [LinkedIn](https://www.linkedin.com/in/derek-tan-b50448245/)
+### Other Links
  - [My Gists](https://gist.github.com/DrkWithT)
 
 ### Focused Languages (1)
