@@ -1,18 +1,19 @@
 # My Profile
-## Updated: Aug 6, 2025
+## Updated: Sep 5, 2025
 
 ### About Me
 - 👋 Hi, I’m @DrkWithT, a fresh graduate from CSULA with a Bachelor's in Computer Science. I've been programming since my high school years.
 - 👀 I’m interested in...
-  - Career: Backend networking applications or graphics programming (visuals, game-dev?)
+  - Career: Backend networking applications
   - Alternative: language implementation! 🐉
+  - Desktop Applications (GUI utilities for drawing or math?)
 - 🌱 I’m currently into...
   - Modern C++ (C++20 and beyond)
   - Rust
   - C# for .NET & Entity Framework
 - 💞️ I’m looking to collaborate on whatever strikes my interest.
 - 📫 How to reach me:
-  - See my _Links_ below!
+  - Discord: `DerkT#0237`
 
 ### Other Links
  - [My Gists](https://gist.github.com/DrkWithT)
