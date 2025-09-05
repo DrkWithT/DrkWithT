@@ -2,11 +2,11 @@
 ## Updated: Aug 6, 2025
 
 ### About Me
-- 👋 Hi, I’m @DrkWithT, a senior-year CS major at CSULA! I've been programming since 2017.
+- 👋 Hi, I’m @DrkWithT, a fresh graduate from CSULA with a Bachelor's in Computer Science. I've been programming since my high school years.
 - 👀 I’m interested in...
   - Career: Backend networking applications or graphics programming (visuals, game-dev?)
   - Alternative: language implementation! 🐉
-- 🌱 I’m currently learning and practicing...
+- 🌱 I’m currently into...
   - Modern C++ (C++20 and beyond)
   - Rust
   - C# for .NET & Entity Framework
