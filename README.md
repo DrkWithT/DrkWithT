@@ -1,14 +1,13 @@
 # My Profile
-## Updated: Sep 5, 2025
+## Updated: Nov 1, 2025
 
 ### About Me
 - 👋 Hi, I’m @DrkWithT, a fresh graduate from CSULA with a Bachelor's in Computer Science. I've been programming since my high school years.
 - 👀 I’m interested in...
-  - Career: Backend networking applications
+  - Career: Web Dev
   - Alternative: language implementation! 🐉
-  - Desktop Applications (GUI utilities for drawing or math?)
 - 🌱 I’m currently into...
-  - Modern C++ (C++20 and beyond)
+  - Modern C++ (C++23 and up)
   - Rust
   - C# for .NET & Entity Framework
 - 💞️ I’m looking to collaborate on whatever strikes my interest.
@@ -17,6 +16,7 @@
 
 ### Other Links
  - [My Gists](https://gist.github.com/DrkWithT)
+ - [Codeberg](https://codeberg.org/DerkPlusT)
 
 ### Focused Languages (1)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
