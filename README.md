@@ -1,5 +1,5 @@
 # My Profile
-## Updated: Dec 7, 2025
+## Updated: Feb 7, 2026
 
 ### About Me
 - 👋 Hi, I’m @DrkWithT, a CSULA graduate with a Bachelor's in Computer Science, now working in PHP web development. I've been programming since my high school years.
@@ -29,9 +29,6 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-
-### My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrkWithT&layout=compact&langs_count=5&theme=onedark)
 
 <!---
 DrkWithT/DrkWithT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
