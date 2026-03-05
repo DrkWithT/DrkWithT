@@ -11,8 +11,6 @@
   - Rust
   - PHP
 - 💞️ I’m looking to collaborate on whatever strikes my interest.
-- 📫 How to reach me:
-  - Discord: `DerkT#0237`
 
 ### Other Links
  - [My Gists](https://gist.github.com/DrkWithT)
@@ -28,7 +26,6 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 <!---
 DrkWithT/DrkWithT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
